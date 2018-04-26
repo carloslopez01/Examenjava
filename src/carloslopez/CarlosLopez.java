@@ -67,7 +67,7 @@ public class CarlosLopez {
                    opcion="3";
                    break;
                default:
-                  JOptionPane.showMessageDialog(null,"Seleccion invalida");
+                  JOptionPane.showMessageDialog(null,"Seleccion invalida.");
                    break;
            }
         }while(opcion!="3");
